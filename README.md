@@ -3,9 +3,12 @@
 This project is a Product Review Web Page built using HTML and CSS. It features a sleek and responsive design aimed at providing an engaging user experience. Key focus areas of the design include a fixed navigation bar, grid layout for organizing content, and visual enhancement through the use of box shadows.
 
 ## Key Features
-- **Fixed Navbar:** A sticky, user-friendly navigation bar that remains at the top as users scroll through the page.
-- **Grid Layout:** Efficient and responsive use of the CSS grid system for structuring the review cards and content.
-- **Box Shadows:** Subtle yet elegant box shadows to enhance the depth and visual appeal of the review sections.
+- **Fixed Navbar:**
+  - A sticky, user-friendly navigation bar that remains at the top as users scroll through the page.
+- **Grid Layout:**
+  - Efficient and responsive use of the CSS grid system for structuring the review cards and content.
+- **Box Shadows:**
+  - Subtle yet elegant box shadows to enhance the depth and visual appeal of the review sections.
 
 ## Technologies Used
 - **HTML5:** For structuring the content.
